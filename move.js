@@ -22,7 +22,7 @@ function move(element) {
                 y+=1
             }
             if(direction === 'east'){
-                x+=1
+                x+= 1
             }
             if(direction === 'south'){
                 y-=1
